@@ -1,4 +1,4 @@
-# Dijkstra Console Visualizer
+# Path Finding Visualizer
 
 This is a simple console-based visualizer for Dijkstra's shortest path algorithm written in C++. It simulates pathfinding on a 2D grid using ASCII characters.
 
