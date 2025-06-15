@@ -31,3 +31,6 @@ Each cell in the grid is represented by a character:
 
 ```bash
 g++ main.cpp -o app
+
+Made by Shivam Shukla.
+Inspired by classic pathfinding visualizations.
