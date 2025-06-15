@@ -41,6 +41,6 @@ g++ main.cpp -o app
 app.exe
 
 
-# 🙋‍♂️ Author
+### 🙋‍♂️ Author
 Made by Shivam Shukla.
 Inspired by classic pathfinding visualizations.
