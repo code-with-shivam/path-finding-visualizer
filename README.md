@@ -31,6 +31,8 @@ Each cell in the grid is represented by a character:
 
 - Easy to modify walls, start, and end points manually.
 
+--- 
+
 ### ⚙️ How to Run
 
 1. Make sure you have `g++` installed.
@@ -40,6 +42,7 @@ Each cell in the grid is represented by a character:
 g++ main.cpp -o app
 app.exe
 
+--- 
 
 ### 🙋‍♂️ Author
 Made by Shivam Shukla.
