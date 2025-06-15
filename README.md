@@ -24,6 +24,13 @@ Each cell in the grid is represented by a character:
 
 ---
 
+### 📌 Features
+ - Visualizes the pathfinding process step-by-step.
+
+- ASCII-based drawing for platform independence.
+
+- Easy to modify walls, start, and end points manually.
+
 ### ⚙️ How to Run
 
 1. Make sure you have `g++` installed.
@@ -31,6 +38,9 @@ Each cell in the grid is represented by a character:
 
 ```bash
 g++ main.cpp -o app
+app.exe
 
+
+# 🙋‍♂️ Author
 Made by Shivam Shukla.
 Inspired by classic pathfinding visualizations.
