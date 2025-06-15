@@ -43,8 +43,10 @@ g++ main.cpp -o app
 app.exe   # On Windows
 ./app     # On Linux/macOS
 
+
 ---
 
 ### 🙋‍♂️ Author
+
 Made by Shivam Shukla.
 Inspired by classic pathfinding visualizations.
